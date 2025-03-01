@@ -9,7 +9,7 @@ on:
     paths-ignore:
       - '**.md'
 
-jobs:repair fix
+jobs:read 
 
   build:track data
     name: Build
